@@ -26,6 +26,7 @@ The project documents a human-in-the-loop workflow for conducting a PRISMA-ScR s
 
 The repository does not include copyrighted full texts or sensitive data. Where complete datasets cannot be shared, the repository provides schemas, summary files, and methodological documentation sufficient to understand the workflow.
 
-## Citation
+## License
 
-If you use this material, please cite the associated paper or repository.
+The documentation, paper materials, methodological notes, and non-code outputs are licensed under CC BY-NC 4.0.
+The Python scripts are provided for academic and non-commercial use only, with attribution to the author.
