@@ -8,10 +8,10 @@ The project documents a human-in-the-loop workflow for conducting a PRISMA-ScR s
 
 ## Repository structure
 
-- `data/`: example datasets, data schemas, and documentation of the screening dataset.
-- `scripts/`: Python scripts used for metadata preparation, ASReview ranking reconstruction.
+- `data/`: example datasets.
+- `scripts/`: Python scripts used for ASReview ranking reconstruction.
 - `outputs/`: summary outputs generated during the workflow.
-- `docs/`: methodological documentation, search strategy.
+- `docs/`: search strategy.
 
 ## Tools used
 
